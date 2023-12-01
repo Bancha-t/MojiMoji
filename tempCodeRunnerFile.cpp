@@ -19,7 +19,7 @@ double pythagoras( double x , double y ){
 void showResult(double x , double y){
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n";
     cout << "Length of the resultant vector = " << x << "\n" ;
-    cout << "Direction of the resultant vector (deg) = " << y << "\n";
+    cout << "Enter direction of the first vector (deg) : " << y << "\n";
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n";
 
 }
